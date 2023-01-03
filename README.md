@@ -64,3 +64,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+#OBS:
+
+Consegui fazer buscar a escrita, porem ao vir o número cai no 404, acontece que abre uma função JS que esconde o número e neste caso não consegui avançar.
